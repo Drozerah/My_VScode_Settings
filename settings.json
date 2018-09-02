@@ -1,8 +1,8 @@
 {
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\system32\\cmd.exe",
     "terminal.integrated.shellArgs.windows": ["/K", "C:\\cmder\\vscode.bat"],
-    "git.path": "C:\\cmder\\vendor\\git-for-windows\\git-cmd.exe",
     "window.zoomLevel": 0,
+    "git.path": "C:\\cmder\\vendor\\git-for-windows\\bin\\git.exe",
     "window.menuBarVisibility": "default",
     "liveServer.settings.CustomBrowser": "chrome",
     "liveServer.settings.donotShowInfoMsg": true,
@@ -10,5 +10,6 @@
     "files.associations": {
         "*.html": "html"
     },
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "terminal.integrated.rendererType": "dom"
 }
