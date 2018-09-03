@@ -10,6 +10,5 @@
     "files.associations": {
         "*.html": "html"
     },
-    "breadcrumbs.enabled": false,
     "terminal.integrated.rendererType": "dom"
 }
